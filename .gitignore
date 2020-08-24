@@ -1,0 +1,5 @@
+*.mp4
+*.pdf
+*.zip
+
+.ipynb_checkpoints/
