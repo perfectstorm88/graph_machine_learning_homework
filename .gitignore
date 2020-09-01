@@ -1,5 +1,5 @@
 *.mp4
 *.pdf
 *.zip
-
+*-bak.*
 .ipynb_checkpoints/
